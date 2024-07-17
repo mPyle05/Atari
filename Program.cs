@@ -11,7 +11,7 @@ namespace ConsolePong
         static int player1Y = 0, player2Y = 0;
         static int player1Score = 0, player2Score = 0;
         const int windowWidth = 40, windowHeight = 20;
-        private const int paddleHeight = 4;
+        private const int paddleHeight = 4
 
         static void Main(string[] args)
         {
